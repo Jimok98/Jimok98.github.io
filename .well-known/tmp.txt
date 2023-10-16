@@ -3,3 +3,17 @@
 //     "target" : { "namespace": "android_app", "package_name": "com.nonghyup.nhlivestock_shipment",
 //                  "sha256_cert_fingerprints": ["77:40:36:82:AF:56:09:02:0E:35:9C:28:61:0F:B5:AC:AB:AF:27:44:8F:A6:5B:47:32:21:22:0C:59:53:E1:05"] }
 //   }]
+
+
+
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.nonghyup.nhlivestock_shipment",
+        "sha256_cert_fingerprints":
+          ["2B:DD:4D:BB:44:D1:F4:57:85:92:68:F6:1B:23:D3:A5:0D:51:32:97:B9:6F:A3:9F:7A:F7:A2:65:FA:3A:65:2C"]
+      }
+    }
+  ]
