@@ -1,0 +1,5 @@
+// [{
+//     "relation": ["delegate_permission/common.handle_all_urls"],
+//     "target" : { "namespace": "android_app", "package_name": "com.nonghyup.nhlivestock_shipment",
+//                  "sha256_cert_fingerprints": ["77:40:36:82:AF:56:09:02:0E:35:9C:28:61:0F:B5:AC:AB:AF:27:44:8F:A6:5B:47:32:21:22:0C:59:53:E1:05"] }
+//   }]
